@@ -1,0 +1,3 @@
+C:/Users/adaam/Desktop/auto/cmake-build-debug/CMakeFiles/auto.dir
+C:/Users/adaam/Desktop/auto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adaam/Desktop/auto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
